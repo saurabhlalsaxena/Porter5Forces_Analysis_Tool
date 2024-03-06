@@ -26,7 +26,7 @@ def main():
   st.set_page_config(page_title = "Porter's 5 Forces Analysis Tool")
   
   #Load markdown documents
-  available_analysis_info = create_dict_from_markdown_files(f'/content/')
+  available_analysis_info = create_dict_from_markdown_files('.')
 
   industry_options = list(available_analysis_info.keys())
 
