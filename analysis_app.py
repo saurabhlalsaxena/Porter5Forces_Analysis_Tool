@@ -3,7 +3,7 @@ import os
 from crewai import Agent, Task, Crew, Process
 from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAI
-from crewai_tools.tools import WebsiteSearchTool, SerperDevTool, FileReadTool
+from crewai_tools import WebsiteSearchTool, SerperDevTool, FileReadTool
 from langsmith import Client
 from textwrap import dedent
 from dotenv import load_dotenv
