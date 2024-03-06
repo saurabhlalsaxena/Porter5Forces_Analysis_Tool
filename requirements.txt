@@ -1,12 +1,2 @@
-langchain
-langchain-community
-langchain-core
-langchain-text-splitters
-langchainhub
-langsmith
-langchainhub
-openai
-langchain-openai
 crewai==0.5.0
 streamlit
-crewai[tools]
