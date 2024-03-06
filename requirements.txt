@@ -7,6 +7,6 @@ langsmith
 langchainhub
 openai
 langchain-openai
-crewai
+crewai --upgrade
 streamlit
 crewai[tools]
