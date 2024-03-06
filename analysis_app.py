@@ -29,7 +29,7 @@ def initialise_tools():
   web_search_tool = WebsiteSearchTool()	
   seper_dev_tool = SerperDevTool()
   file_read_tool = FileReadTool(
-	  file_path="Michael Porter's paper on 5 forces analysis.txt",
+	  file_path="./Michael Porter's paper on 5 forces analysis.txt",
 	  description='A tool to read the paper by Michael Porter on Porters 5 forces. This paper should be used as the basis of the analysis',
   )
   return web_search_tool, seper_dev_tool,file_read_tool
@@ -143,7 +143,7 @@ def main():
   st.set_page_config(page_title = "Porter's 5 Forces Analysis Tool")
   
   #Load markdown documents
-  available_analysis_info = create_dict_from_markdown_files(f'/content/')
+  available_analysis_info = create_dict_from_markdown_files('.')
 
   industry_options = list(available_analysis_info.keys())
 
