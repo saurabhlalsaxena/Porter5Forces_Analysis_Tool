@@ -1,8 +1,8 @@
-#Porter's 5 Forces Analysis Tool
+# Porter's 5 Forces Analysis Tool
 
 Welcome to the Porter's 5 Forces Analysis Tool repository! This tool utilizes RAG (Retrieval Augmented Generation) to generate comprehensive analyses for various industries. Users can explore pre-populated examples or create custom analyses tailored to their specific needs.
 
-Overview
+## Overview
 
 Porter's Five Forces framework is a powerful tool for analyzing the competitiveness of an industry. It examines five key forces that shape the industry's competitive landscape:
 
@@ -13,13 +13,13 @@ Threat of Substitute Products or Services
 Competitive Rivalry Among Existing Firms
 By understanding these forces, businesses can make informed decisions regarding strategic positioning, market entry, and competitive advantage.
 
-Features
+## Features
 
 RAG: Utilizes Retrival Augmented Generation to search the internet
 Pre-Populated Examples: Offers three pre-loaded industry examples for users to explore.
 Custom Analysis: Allows users to input industry-specific data and generate personalized analyses.
 
-Getting Started
+## Getting Started
 
 To get started with the Porter's 5 Forces Analysis Tool, follow these steps:
 
@@ -29,15 +29,15 @@ Run the application and explore the pre-populated examples or create your own an
 Enjoy insightful industry assessments powered by Porter's Five Forces framework and Crew AI.
 Usage
 
-Contributions
+## Contributions
 
 Contributions to the Porter's 5 Forces Analysis Tool repository are welcome! Whether you want to add new features, improve existing functionality, or fix bugs, your contributions are valuable to the community. Please refer to the contribution guidelines for more information.
 
-License
+## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both personal and commercial purposes.
 
-Acknowledgements
+## Acknowledgements
 
 Crew AI: Special thanks to Crew AI for powering the analysis engine behind the tool.
 Porter's Five Forces Framework: Inspired by Michael Porter's seminal work on industry analysis.
