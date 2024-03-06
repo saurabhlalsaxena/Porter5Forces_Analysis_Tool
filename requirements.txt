@@ -9,4 +9,4 @@ openai
 langchain-openai
 crewai
 streamlit
-crewai_tools
+crewai[tools]
