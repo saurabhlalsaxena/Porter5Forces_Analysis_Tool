@@ -9,4 +9,4 @@ openai
 langchain-openai
 crewai --upgrade
 streamlit
-crewai[tools]
+crewai_tools
