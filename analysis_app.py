@@ -1,3 +1,4 @@
+!pip install --q crewai[tools]
 import streamlit as st
 import os
 from crewai import Agent, Task, Crew, Process
